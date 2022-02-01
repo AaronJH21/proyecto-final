@@ -1,0 +1,94 @@
+[
+    {
+    "id":1,
+    "nombre":"Un lugar en silencio 2",
+    "tipo":"2D",
+    "Genero":"Terror", 
+    "precio":500, 
+    "img":"img/pelicula.jpg",
+    "Descripcion":"La familia Abbott ahora se enfrenta a los terrores del mundo exterior. Forzados a aventurarse en lo desconocido, se dan cuenta de que las criaturas que cazan por el sonido no son las únicas amenazas que acechan más allá del camino de arena.", 
+    "cantidad":1
+    
+},  
+    {
+    "id":2, 
+    "nombre":"Un lugar en silencio 2",
+    "tipo":"3D",
+    "Genero":"Terror", 
+    "precio":600, 
+    "img":"img/pelicula.jpg",
+    "Descripcion":"La familia Abbott ahora se enfrenta a los terrores del mundo exterior. Forzados a aventurarse en lo desconocido, se dan cuenta de que las criaturas que cazan por el sonido no son las únicas amenazas que acechan más allá del camino de arena.", 
+    "cantidad":1
+},
+    {
+    "id":3,
+    "nombre":"Venom 2",
+    "tipo":"2D",
+    "Genero":"Accion y Aventura",
+    "precio":500,
+    "img":"img/pelicula2.jpg",
+    "Descripcion":"Después de encontrar un cuerpo anfitrión en el periodista de investigación Eddie Brock, el simbionte alienígena debe enfrentarse a un nuevo enemigo, Carnage, el alter ego del asesino en serie Cletus Kasady.",
+    "cantidad":1
+},
+    {
+    "id":4,     
+    "nombre":"Venom 2",
+    "tipo":"3D",
+    "Genero":"Accion y Aventura",
+    "precio":600,
+    "img":"img/pelicula2.jpg",
+    "Descripcion":"Después de encontrar un cuerpo anfitrión en el periodista de investigación Eddie Brock, el simbionte alienígena debe enfrentarse a un nuevo enemigo, Carnage, el alter ego del asesino en serie Cletus Kasady.",
+    "cantidad":1
+},
+    {
+    "id":5,
+    "nombre":"Avengers:End game",
+    "tipo":"2D",
+    "Genero":"Accion y Ciencia Ficcion", 
+    "precio":500, 
+    "img":"img/pelicula3.jpg",
+    "Descripcion":"Después de los eventos devastadores de Avengers: Infinity War, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas.",
+    "cantidad":1
+},
+    {
+    "id":6,
+    "nombre":"Avengers:End game",
+    "tipo":"3D",
+    "Genero":"Accion y Ciencia Ficcion", 
+    "precio":600, 
+    "img":"img/pelicula3.jpg",
+    "Descripcion":"Después de los eventos devastadores de Avengers: Infinity War, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas.",
+    "cantidad":1
+},
+
+{
+    "id":7,
+    "nombre":"Sing",
+    "tipo":"3D",
+    "Genero":"Comedia y musical", 
+    "precio":600, 
+    "img":"img/pelicula4.jpg",
+    "Descripcion":"Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
+    "cantidad":1
+},
+{
+    "id":8,
+    "nombre":"la voz silenciosa",
+    "tipo":"2D",
+    "Genero":"Drama y Romance", 
+    "precio":500, 
+    "img":"img/pelicula5.jpg",
+    "Descripcion":"Shôko Nishimiya, una estudiante de primaria sorda, empieza a sentir el bullying de sus nuevos compañeros cuando se cambia de colegio. El peor de todos es Ishida Shôya, quien termina por forzar que Nishimiya se cambie de escuela. Años después, Ishida buscará la redención de sus malas acciones.",
+    "cantidad":1
+},
+{
+    "id":9,
+    "nombre":"Nosotros",
+    "tipo":"3D",
+    "Genero":"Terror y suspenso",
+    "precio":500, 
+    "img":"img/pelicula6.jpg",
+    "Descripcion":"Adelaide Wilson, su marido y sus dos hijos visitan la casa en la que ella creció junto a la playa. Allí, Adelaide tiene un presentimiento siniestro que precede a un encuentro espeluznante: cuatro enmascarados se presentan ante su casa.",
+    "cantidad":1
+}
+]
